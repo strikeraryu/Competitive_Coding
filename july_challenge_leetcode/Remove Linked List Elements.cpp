@@ -17,7 +17,7 @@ using namespace std;
 
 
 
-D//efinition for singly-linked list.
+// definition for singly-linked list.
 struct ListNode {
     int val;
     ListNode *next;
